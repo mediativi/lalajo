@@ -2,5 +2,5 @@
     "versionCode": 1,
     "versionName": "v1",
     "changelog": ["iptv-org as default playlist", "app in landscape mode", "ffmpeg libs", "optimize prebuffer", "change player layout", "and more.."],
-    "downloadUrl": "https://github.com/mediativi/lalajo/releases/download/v1/com.media.tv_v1_1.apk"
+    "downloadUrl": "https://github.com/mediativi/lalajo/releases/download/v1/com.lalajo.tv_v1_1.apk"
 }
